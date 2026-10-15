@@ -18,41 +18,6 @@ I’m a Frontend Engineer with **8+ years** of experience building fast, accessi
 
 <img src="assets/career.svg" width="100%" alt="Web Pult (2018) → One Web (2019) → Margin Digital Studio, Technical Lead (2020) → Humandone (2022) → Dafna (2024 — now)"/>
 
-### Recent projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://dafna.uz/"><img src="assets/projects/dafna.webp" width="100%" alt="Dafna"/></a>
-      <h4><a href="https://dafna.uz/">Dafna</a></h4>
-      Online store for one of Uzbekistan’s leading furniture brands.<br/><br/>
-      <code>React</code> <code>Next.js</code> <code>Redux</code> <code>CSS Modules</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://prowatt.uz/"><img src="assets/projects/prowatt.webp" width="100%" alt="Prowatt"/></a>
-      <h4><a href="https://prowatt.uz/">Prowatt</a></h4>
-      Website offering electrical installation services across Tashkent.<br/><br/>
-      <code>Astro</code> <code>Nanostores</code> <code>Lucide</code> <code>CSS Modules</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://mirislamus.github.io/pomodoro"><img src="assets/projects/pomotomo.webp" width="100%" alt="Pomotomo Focus Timer"/></a>
-      <h4><a href="https://mirislamus.github.io/pomodoro">Pomotomo Focus Timer</a></h4>
-      Personal Pomodoro focus timer designed to support concentration and task completion.<br/><br/>
-      <code>React</code> <code>Vite</code> <code>Chakra UI</code> <code>Zustand</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://humandone.com/"><img src="assets/projects/humandone.webp" width="100%" alt="Humandone"/></a>
-      <h4><a href="https://humandone.com/">Humandone</a></h4>
-      Corporate website for a studio building websites, web applications, and Web3 products.<br/><br/>
-      <code>React</code> <code>Gatsby</code> <code>Chakra UI</code> <code>GSAP</code>
-    </td>
-  </tr>
-</table>
-
-<p align="right"><a href="https://mirislamus.github.io/#projects">More projects →</a></p>
-
 ### Skills, tools and technologies
 
 <img src="assets/skills.svg" width="100%" alt="TypeScript, JavaScript, React, Next.js, Astro, TanStack Query, Zustand, Zod, Vitest, Playwright, Sass, Tailwind CSS, GSAP, Motion, Vite, Bun and more"/>
