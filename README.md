@@ -10,10 +10,6 @@
 
 I’m a Frontend Engineer with **8+ years** of experience building fast, accessible websites and web applications in **React, Next.js and TypeScript**. I focus on clear interfaces, reliable implementation, and a flexible approach to every product and client. I pick the solution for the task, not the task for the solution.
 
-### Approach
-
-<img src="assets/chat.svg" width="100%" alt="Chat with a client: a preview after every step and decisions explained in plain words."/>
-
 ### Currently in development
 
 <a href="https://t.me/mirislamus?text=Hi!%20I%20want%20an%20invite%20to%20your%20new%20service."><img src="assets/secret.svg" width="100%" alt="Top secret: two projects under NDA. Got an invite? Ask on Telegram."/></a>
