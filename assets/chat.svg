@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="380" viewBox="0 0 840 380" fill="none" role="img" aria-label="You always know where the project stands: a preview after every step">
+<title>You always know where the project stands: a preview after every step</title>
+<style>
+text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif}
+.mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace}
+.pop{transform-box:fill-box;transform-origin:center}
+
+@keyframes bounce{0%,60%,100%{transform:none}30%{transform:translateY(-4px)}}
+.dot{animation:bounce 1s ease-in-out infinite}
+.typing,.status-typing{opacity:0}
+@keyframes m0{0%,8.75%{opacity:0;transform:translateY(10px) scale(.96)}11.75%,91.25%{opacity:1;transform:none}96.25%,100%{opacity:0;transform:none}}
+.m0{animation:m0 16s cubic-bezier(.22,1,.36,1) infinite}
+@keyframes ty0{0%,2.5%{opacity:0}3.5%,8.25%{opacity:1}8.75%,100%{opacity:0}}
+.ty0{animation:ty0 16s infinite}
+@keyframes m1{0%,17.5%{opacity:0;transform:translateY(10px) scale(.96)}20.5%,91.25%{opacity:1;transform:none}96.25%,100%{opacity:0;transform:none}}
+.m1{animation:m1 16s cubic-bezier(.22,1,.36,1) infinite}
+@keyframes m2{0%,30%{opacity:0;transform:translateY(10px) scale(.96)}33%,91.25%{opacity:1;transform:none}96.25%,100%{opacity:0;transform:none}}
+.m2{animation:m2 16s cubic-bezier(.22,1,.36,1) infinite}
+@keyframes ty2{0%,23.75%{opacity:0}24.75%,29.5%{opacity:1}30%,100%{opacity:0}}
+.ty2{animation:ty2 16s infinite}
+@keyframes m3{0%,38.75%{opacity:0;transform:translateY(10px) scale(.96)}41.75%,91.25%{opacity:1;transform:none}96.25%,100%{opacity:0;transform:none}}
+.m3{animation:m3 16s cubic-bezier(.22,1,.36,1) infinite}
+@keyframes rx{0%,43.75%{opacity:0;transform:scale(.2)}45.75%{opacity:1;transform:scale(1.25)}47.75%,91.25%{opacity:1;transform:scale(1)}96.25%,100%{opacity:0}}
+.rx{animation:rx 16s ease-out infinite}
+@keyframes m4{0%,55%{opacity:0;transform:translateY(10px) scale(.96)}58%,91.25%{opacity:1;transform:none}96.25%,100%{opacity:0;transform:none}}
+.m4{animation:m4 16s cubic-bezier(.22,1,.36,1) infinite}
+@keyframes ty4{0%,48.75%{opacity:0}49.75%,54.5%{opacity:1}55%,100%{opacity:0}}
+.ty4{animation:ty4 16s infinite}
+@keyframes st{0%{opacity:0}2.5%{opacity:0}3.5%{opacity:1}8.25%{opacity:1}8.75%{opacity:0}23.75%{opacity:0}24.75%{opacity:1}29.5%{opacity:1}30%{opacity:0}48.75%{opacity:0}49.75%{opacity:1}54.5%{opacity:1}55%{opacity:0}100%{opacity:0}}.status-typing{animation:st 16s infinite}
+@keyframes so{0%{opacity:1}2.5%{opacity:1}3.5%{opacity:0}8.25%{opacity:0}8.75%{opacity:1}23.75%{opacity:1}24.75%{opacity:0}29.5%{opacity:0}30%{opacity:1}48.75%{opacity:1}49.75%{opacity:0}54.5%{opacity:0}55%{opacity:1}100%{opacity:1}}.status-online{animation:so 16s infinite}
+@keyframes prog{0%,8.75%{stroke-dashoffset:320}55%,91.25%{stroke-dashoffset:0}96.25%,100%{stroke-dashoffset:320}}
+.prog{animation:prog 16s linear infinite}
+@keyframes n0{0%,8.75%{fill:#121212;stroke:#3A3A3A}9.75%,91.25%{fill:#44FF62;stroke:#44FF62}96.25%,100%{fill:#121212;stroke:#3A3A3A}}
+.n0{animation:n0 16s infinite}
+@keyframes n1{0%,24.17%{fill:#121212;stroke:#3A3A3A}25.17%,91.25%{fill:#44FF62;stroke:#44FF62}96.25%,100%{fill:#121212;stroke:#3A3A3A}}
+.n1{animation:n1 16s infinite}
+@keyframes n2{0%,39.58%{fill:#121212;stroke:#3A3A3A}40.58%,91.25%{fill:#44FF62;stroke:#44FF62}96.25%,100%{fill:#121212;stroke:#3A3A3A}}
+.n2{animation:n2 16s infinite}
+@keyframes n3{0%,55%{fill:#121212;stroke:#3A3A3A}56%,91.25%{fill:#44FF62;stroke:#44FF62}96.25%,100%{fill:#121212;stroke:#3A3A3A}}
+.n3{animation:n3 16s infinite}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="839" height="379" rx="24" fill="#121212" stroke="#262626"/>
+<rect x="24" y="24" width="400" height="332" rx="18" fill="#181818" stroke="#262626"/>
+<circle cx="56" cy="58" r="16" fill="#44FF62" fill-opacity=".15"/>
+<text x="56" y="63" text-anchor="middle" font-size="14" font-weight="700" fill="#44FF62">C</text>
+<text x="82" y="54" font-size="14" font-weight="600" fill="#F5F5F5">Client</text>
+<text class="status-online" x="82" y="71" font-size="12" fill="#44FF62">online</text>
+<text class="status-typing" x="82" y="71" font-size="12" fill="#A3A3A3">typing…</text>
+<line x1="24" y1="90" x2="424" y2="90" stroke="#262626"/>
+<g class="pop m0">
+  <rect x="40" y="108" width="345" height="36" rx="14" fill="#232323"/>
+  <text x="54" y="131" font-size="13" fill="#EDEDED">Can we move the form to the first screen?</text>
+  <text x="373" y="131" text-anchor="end" font-size="10" fill="#A3A3A3" fill-opacity=".7">10:24</text>
+</g>
+<g class="typing ty0">
+  <rect x="40" y="108" width="58" height="36" rx="14" fill="#232323"/>
+  <circle class="dot" style="animation-delay:0s" cx="56" cy="126" r="3.5" fill="#A3A3A3"/><circle class="dot" style="animation-delay:0.15s" cx="69" cy="126" r="3.5" fill="#A3A3A3"/><circle class="dot" style="animation-delay:0.3s" cx="82" cy="126" r="3.5" fill="#A3A3A3"/>
+</g>
+<g class="pop m1">
+  <rect x="167" y="156" width="241" height="36" rx="14" fill="#44FF62"/>
+  <text x="181" y="179" font-size="13" fill="#121212">Done. Here’s the preview ↗</text>
+  <text x="396" y="179" text-anchor="end" font-size="10" fill="#121212" fill-opacity=".7">10:25</text>
+</g>
+<g class="pop m2">
+  <rect x="40" y="204" width="317" height="36" rx="14" fill="#232323"/>
+  <text x="54" y="227" font-size="13" fill="#EDEDED">Nice! Can the button be a bit bigger?</text>
+  <text x="345" y="227" text-anchor="end" font-size="10" fill="#A3A3A3" fill-opacity=".7">10:27</text>
+</g>
+<g class="typing ty2">
+  <rect x="40" y="204" width="58" height="36" rx="14" fill="#232323"/>
+  <circle class="dot" style="animation-delay:0s" cx="56" cy="222" r="3.5" fill="#A3A3A3"/><circle class="dot" style="animation-delay:0.15s" cx="69" cy="222" r="3.5" fill="#A3A3A3"/><circle class="dot" style="animation-delay:0.3s" cx="82" cy="222" r="3.5" fill="#A3A3A3"/>
+</g>
+<g class="pop m3">
+  <rect x="153" y="252" width="255" height="36" rx="14" fill="#44FF62"/>
+  <text x="167" y="275" font-size="13" fill="#121212">Made it bigger, take a look.</text>
+  <text x="396" y="275" text-anchor="end" font-size="10" fill="#121212" fill-opacity=".7">10:28</text>
+</g>
+<g class="pop rx"><circle cx="400" cy="288" r="12" fill="#232323" stroke="#181818" stroke-width="2"/><text x="400" y="292.5" text-anchor="middle" font-size="13" fill="#F5F5F5">👍</text></g>
+<g class="pop m4">
+  <rect x="40" y="300" width="179" height="36" rx="14" fill="#232323"/>
+  <text x="54" y="323" font-size="13" fill="#EDEDED">Great, approved ✅</text>
+  <text x="207" y="323" text-anchor="end" font-size="10" fill="#A3A3A3" fill-opacity=".7">10:30</text>
+</g>
+<g class="typing ty4">
+  <rect x="40" y="300" width="58" height="36" rx="14" fill="#232323"/>
+  <circle class="dot" style="animation-delay:0s" cx="56" cy="318" r="3.5" fill="#A3A3A3"/><circle class="dot" style="animation-delay:0.15s" cx="69" cy="318" r="3.5" fill="#A3A3A3"/><circle class="dot" style="animation-delay:0.3s" cx="82" cy="318" r="3.5" fill="#A3A3A3"/>
+</g>
+
+<text class="mono" x="460" y="70" font-size="12" font-weight="700" letter-spacing="2" fill="#44FF62">MY APPROACH</text>
+<text x="460" y="114" font-size="30" font-weight="800" letter-spacing="-.5" fill="#F5F5F5">You always know</text>
+<text x="460" y="152" font-size="30" font-weight="800" letter-spacing="-.5" fill="#F5F5F5">where the project</text>
+<text x="460" y="190" font-size="30" font-weight="800" letter-spacing="-.5" fill="#44FF62">stands.</text>
+<text x="460" y="228" font-size="15" fill="#A3A3A3">A preview after every step and</text>
+<text x="460" y="250" font-size="15" fill="#A3A3A3">decisions explained in plain words.</text>
+<line x1="476" y1="300" x2="796" y2="300" stroke="#262626" stroke-width="2"/>
+<line class="prog" x1="476" y1="300" x2="796" y2="300" stroke="#44FF62" stroke-width="2" stroke-dasharray="320"/>
+<circle class="n0" cx="476" cy="300" r="7" fill="#44FF62" stroke="#44FF62" stroke-width="2"/>
+<circle class="n1" cx="582.67" cy="300" r="7" fill="#44FF62" stroke="#44FF62" stroke-width="2"/>
+<circle class="n2" cx="689.33" cy="300" r="7" fill="#44FF62" stroke="#44FF62" stroke-width="2"/>
+<circle class="n3" cx="796" cy="300" r="7" fill="#44FF62" stroke="#44FF62" stroke-width="2"/>
+<text x="476" y="332" text-anchor="middle" font-size="13" font-weight="600" fill="#A3A3A3">Design</text>
+<text x="582.67" y="332" text-anchor="middle" font-size="13" font-weight="600" fill="#A3A3A3">Layout</text>
+<text x="689.33" y="332" text-anchor="middle" font-size="13" font-weight="600" fill="#A3A3A3">SEO</text>
+<text x="796" y="332" text-anchor="middle" font-size="13" font-weight="600" fill="#A3A3A3">Launch</text>
+</svg>

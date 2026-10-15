@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="318" viewBox="0 0 840 318" fill="none" role="img" aria-label="Skills: TypeScript, JavaScript, HTML, CSS, React, Next.js, Astro, React Router, TanStack Query, Zustand, Zod, Axios, React Hook Form, Vitest, Playwright, Storybook, Sass, Tailwind CSS, Chakra UI, GSAP, Motion, Lottie, Embla Carousel, Figma, Vite, Bun, Git, ESLint, Prettier, PWA, Claude Code, Codex">
+<title>Skills: TypeScript, JavaScript, HTML, CSS, React, Next.js, Astro, React Router, TanStack Query, Zustand, Zod, Axios, React Hook Form, Vitest, Playwright, Storybook, Sass, Tailwind CSS, Chakra UI, GSAP, Motion, Lottie, Embla Carousel, Figma, Vite, Bun, Git, ESLint, Prettier, PWA, Claude Code, Codex</title>
+<style>
+text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif}
+.mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace}
+.pop{transform-box:fill-box;transform-origin:center}
+
+@keyframes wave{4%{stroke:#44FF62;fill:#1B2E1F}10%{stroke:#2A2A2A;fill:#181818}}
+.chip rect{animation:wave 6.84s ease-in-out infinite;animation-delay:inherit}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="839" height="317" rx="24" fill="#121212" stroke="#262626"/>
+<text class="mono" x="32" y="38" font-size="12" font-weight="700" letter-spacing="2" fill="#44FF62">CORE</text>
+<g class="chip" style="animation-delay:0s"><rect x="32" y="54" width="102" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="83" y="73.5" text-anchor="middle" font-size="13" fill="#E5E5E5">TypeScript</text></g>
+<g class="chip" style="animation-delay:0.12s"><rect x="142" y="54" width="102" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="193" y="73.5" text-anchor="middle" font-size="13" fill="#E5E5E5">JavaScript</text></g>
+<g class="chip" style="animation-delay:0.24s"><rect x="252" y="54" width="58" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="281" y="73.5" text-anchor="middle" font-size="13" fill="#E5E5E5">HTML</text></g>
+<g class="chip" style="animation-delay:0.36s"><rect x="318" y="54" width="50" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="343" y="73.5" text-anchor="middle" font-size="13" fill="#E5E5E5">CSS</text></g>
+<g class="chip" style="animation-delay:0.48s"><rect x="32" y="92" width="65" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="64.5" y="111.5" text-anchor="middle" font-size="13" fill="#E5E5E5">React</text></g>
+<g class="chip" style="animation-delay:0.6s"><rect x="105" y="92" width="80" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="145" y="111.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Next.js</text></g>
+<g class="chip" style="animation-delay:0.72s"><rect x="193" y="92" width="65" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="225.5" y="111.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Astro</text></g>
+<g class="chip" style="animation-delay:0.84s"><rect x="266" y="92" width="117" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="324.5" y="111.5" text-anchor="middle" font-size="13" fill="#E5E5E5">React Router</text></g>
+<text class="mono" x="436" y="38" font-size="12" font-weight="700" letter-spacing="2" fill="#44FF62">DATA &amp; QUALITY</text>
+<g class="chip" style="animation-delay:0.96s"><rect x="436" y="54" width="132" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="502" y="73.5" text-anchor="middle" font-size="13" fill="#E5E5E5">TanStack Query</text></g>
+<g class="chip" style="animation-delay:1.08s"><rect x="576" y="54" width="80" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="616" y="73.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Zustand</text></g>
+<g class="chip" style="animation-delay:1.2s"><rect x="664" y="54" width="50" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="689" y="73.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Zod</text></g>
+<g class="chip" style="animation-delay:1.32s"><rect x="722" y="54" width="65" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="754.5" y="73.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Axios</text></g>
+<g class="chip" style="animation-delay:1.44s"><rect x="436" y="92" width="139" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="505.5" y="111.5" text-anchor="middle" font-size="13" fill="#E5E5E5">React Hook Form</text></g>
+<g class="chip" style="animation-delay:1.56s"><rect x="583" y="92" width="72" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="619" y="111.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Vitest</text></g>
+<g class="chip" style="animation-delay:1.68s"><rect x="663" y="92" width="102" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="714" y="111.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Playwright</text></g>
+<g class="chip" style="animation-delay:1.8s"><rect x="436" y="130" width="95" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="483.5" y="149.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Storybook</text></g>
+<text class="mono" x="32" y="202" font-size="12" font-weight="700" letter-spacing="2" fill="#44FF62">UI &amp; MOTION</text>
+<g class="chip" style="animation-delay:1.92s"><rect x="32" y="218" width="58" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="61" y="237.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Sass</text></g>
+<g class="chip" style="animation-delay:2.04s"><rect x="98" y="218" width="117" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="156.5" y="237.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Tailwind CSS</text></g>
+<g class="chip" style="animation-delay:2.16s"><rect x="223" y="218" width="95" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="270.5" y="237.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Chakra UI</text></g>
+<g class="chip" style="animation-delay:2.28s"><rect x="326" y="218" width="58" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="355" y="237.5" text-anchor="middle" font-size="13" fill="#E5E5E5">GSAP</text></g>
+<g class="chip" style="animation-delay:2.4s"><rect x="32" y="256" width="72" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="68" y="275.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Motion</text></g>
+<g class="chip" style="animation-delay:2.52s"><rect x="112" y="256" width="72" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="148" y="275.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Lottie</text></g>
+<g class="chip" style="animation-delay:2.64s"><rect x="192" y="256" width="132" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="258" y="275.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Embla Carousel</text></g>
+<g class="chip" style="animation-delay:2.76s"><rect x="332" y="256" width="65" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="364.5" y="275.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Figma</text></g>
+<text class="mono" x="436" y="202" font-size="12" font-weight="700" letter-spacing="2" fill="#44FF62">TOOLING &amp; AI</text>
+<g class="chip" style="animation-delay:2.88s"><rect x="436" y="218" width="58" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="465" y="237.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Vite</text></g>
+<g class="chip" style="animation-delay:3s"><rect x="502" y="218" width="50" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="527" y="237.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Bun</text></g>
+<g class="chip" style="animation-delay:3.12s"><rect x="560" y="218" width="50" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="585" y="237.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Git</text></g>
+<g class="chip" style="animation-delay:3.24s"><rect x="618" y="218" width="72" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="654" y="237.5" text-anchor="middle" font-size="13" fill="#E5E5E5">ESLint</text></g>
+<g class="chip" style="animation-delay:3.36s"><rect x="698" y="218" width="87" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="741.5" y="237.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Prettier</text></g>
+<g class="chip" style="animation-delay:3.48s"><rect x="436" y="256" width="50" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="461" y="275.5" text-anchor="middle" font-size="13" fill="#E5E5E5">PWA</text></g>
+<g class="chip" style="animation-delay:3.6s"><rect x="494" y="256" width="109" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="548.5" y="275.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Claude Code</text></g>
+<g class="chip" style="animation-delay:3.72s"><rect x="611" y="256" width="65" height="30" rx="15" fill="#181818" stroke="#2A2A2A"/><text x="643.5" y="275.5" text-anchor="middle" font-size="13" fill="#E5E5E5">Codex</text></g>
+
+</svg>

@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="380" viewBox="0 0 840 380" fill="none" role="img" aria-label="Mirislam Usmanov — Frontend Engineer">
+<title>Mirislam Usmanov — Frontend Engineer</title>
+<style>
+text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif}
+.mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace}
+.pop{transform-box:fill-box;transform-origin:center}
+
+@keyframes drift1{to{transform:translate(60px,30px)}}
+@keyframes drift2{to{transform:translate(50px,-40px)}}
+@keyframes drift3{to{transform:translate(-50px,-30px)}}
+.d1{animation:drift1 9s ease-in-out infinite alternate}
+.d2{animation:drift2 11s ease-in-out infinite alternate}
+.d3{animation:drift3 13s ease-in-out infinite alternate}
+@keyframes ping{0%{transform:scale(1);opacity:.7}100%{transform:scale(3.2);opacity:0}}
+.ping{animation:ping 1.8s cubic-bezier(0,0,.2,1) infinite}
+@keyframes blink{50%{opacity:0}}
+.caret{animation:blink 1s step-end infinite}
+@keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.rise{animation:rise .8s cubic-bezier(.22,1,.36,1) both}
+@keyframes o0{0%{opacity:1}24%{opacity:0}100%{opacity:0}}
+.o0{animation:o0 20s step-end infinite}
+@keyframes t0{0%{transform:translateX(0);animation-timing-function:steps(43,end)}9%{transform:translateX(387px)}19%{transform:translateX(387px);animation-timing-function:steps(43,end)}23%{transform:translateX(0)}100%{transform:translateX(0)}}
+.t0{animation:t0 20s infinite;transform:translateX(387px)}
+@keyframes o1{0%{opacity:0}25%{opacity:1}49%{opacity:0}100%{opacity:0}}
+.o1{animation:o1 20s step-end infinite;opacity:0}
+@keyframes t1{0%{transform:translateX(0)}25%{transform:translateX(0);animation-timing-function:steps(36,end)}34%{transform:translateX(324px)}44%{transform:translateX(324px);animation-timing-function:steps(36,end)}48%{transform:translateX(0)}100%{transform:translateX(0)}}
+.t1{animation:t1 20s infinite}
+@keyframes o2{0%{opacity:0}50%{opacity:1}74%{opacity:0}100%{opacity:0}}
+.o2{animation:o2 20s step-end infinite;opacity:0}
+@keyframes t2{0%{transform:translateX(0)}50%{transform:translateX(0);animation-timing-function:steps(47,end)}59%{transform:translateX(423px)}69%{transform:translateX(423px);animation-timing-function:steps(47,end)}73%{transform:translateX(0)}100%{transform:translateX(0)}}
+.t2{animation:t2 20s infinite}
+@keyframes o3{0%{opacity:0}75%{opacity:1}99%{opacity:0}100%{opacity:0}}
+.o3{animation:o3 20s step-end infinite;opacity:0}
+@keyframes t3{0%{transform:translateX(0)}75%{transform:translateX(0);animation-timing-function:steps(40,end)}84%{transform:translateX(360px)}94%{transform:translateX(360px);animation-timing-function:steps(40,end)}98%{transform:translateX(0)}100%{transform:translateX(0)}}
+.t3{animation:t3 20s infinite}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs>
+<clipPath id="hc"><rect x="0.5" y="0.5" width="839" height="379" rx="24"/></clipPath>
+<radialGradient id="g1"><stop offset="0" stop-color="#44FF62" stop-opacity=".28"/><stop offset="1" stop-color="#44FF62" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2"><stop offset="0" stop-color="#3B82F6" stop-opacity=".26"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient>
+<radialGradient id="g3"><stop offset="0" stop-color="#EC4899" stop-opacity=".22"/><stop offset="1" stop-color="#EC4899" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="11" cy="11" r="1" fill="#fff" fill-opacity=".09"/></pattern>
+<radialGradient id="fade" cx=".5" cy=".4" r=".6"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<mask id="dm"><rect width="840" height="380" fill="url(#fade)"/></mask>
+<linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="840" y2="0">
+  <stop offset="0" stop-color="#fff"/><stop offset=".4" stop-color="#fff"/><stop offset=".5" stop-color="#44FF62"/><stop offset=".6" stop-color="#fff"/><stop offset="1" stop-color="#fff"/>
+  <animateTransform attributeName="gradientTransform" type="translate" values="-840 0;840 0;840 0" keyTimes="0;.6;1" dur="7s" repeatCount="indefinite"/>
+</linearGradient>
+<clipPath id="tc"><rect x="180" y="214" width="508" height="44"/></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="839" height="379" rx="24" fill="#121212" stroke="#262626"/>
+<g clip-path="url(#hc)">
+  <circle class="d1" cx="420" cy="10" r="300" fill="url(#g1)"/>
+  <circle class="d2" cx="110" cy="380" r="270" fill="url(#g2)"/>
+  <circle class="d3" cx="760" cy="360" r="250" fill="url(#g3)"/>
+  <rect width="840" height="380" fill="url(#dots)" mask="url(#dm)"/>
+</g>
+
+<g class="rise">
+  <rect x="325" y="34" width="190" height="30" rx="15" fill="#181818" stroke="#2F2F2F"/>
+  <circle class="pop ping" cx="345" cy="49" r="4" fill="#44FF62"/>
+  <circle cx="345" cy="49" r="4" fill="#44FF62"/>
+  <text x="357" y="53.5" font-size="13" fill="#D4D4D4">Open to new projects</text>
+</g>
+
+<text class="rise" style="animation-delay:.1s" x="420" y="138" text-anchor="middle" font-size="56" font-weight="800" letter-spacing="-1.5" fill="url(#shine)">Mirislam Usmanov</text>
+<text class="rise" style="animation-delay:.2s" x="420" y="180" text-anchor="middle" font-size="22" font-weight="600" fill="#44FF62">Frontend Engineer</text>
+
+<g class="rise" style="animation-delay:.3s">
+  <rect x="140" y="212" width="560" height="48" rx="14" fill="#181818" stroke="#262626"/>
+  <text class="mono" x="162" y="242" font-size="15" font-weight="700" fill="#44FF62">~ $</text>
+  <g clip-path="url(#tc)">
+<g class="o0">
+  <text class="mono" x="200" y="242" font-size="15" fill="#F5F5F5" textLength="387" lengthAdjust="spacingAndGlyphs">8+ years building fast, accessible web apps</text>
+  <g class="t0"><rect x="199" y="222" width="463" height="30" fill="#181818"/><rect class="caret" x="200" y="226" width="2" height="21" fill="#44FF62"/></g>
+</g>
+<g class="o1">
+  <text class="mono" x="200" y="242" font-size="15" fill="#F5F5F5" textLength="324" lengthAdjust="spacingAndGlyphs">React · Next.js · TypeScript · Astro</text>
+  <g class="t1"><rect x="199" y="222" width="463" height="30" fill="#181818"/><rect class="caret" x="200" y="226" width="2" height="21" fill="#44FF62"/></g>
+</g>
+<g class="o2">
+  <text class="mono" x="200" y="242" font-size="15" fill="#F5F5F5" textLength="423" lengthAdjust="spacingAndGlyphs">Landing pages, stores, Web3, Telegram Mini Apps</text>
+  <g class="t2"><rect x="199" y="222" width="463" height="30" fill="#181818"/><rect class="caret" x="200" y="226" width="2" height="21" fill="#44FF62"/></g>
+</g>
+<g class="o3">
+  <text class="mono" x="200" y="242" font-size="15" fill="#F5F5F5" textLength="360" lengthAdjust="spacingAndGlyphs">Lighthouse 94+ — polished to the details</text>
+  <g class="t3"><rect x="199" y="222" width="463" height="30" fill="#181818"/><rect class="caret" x="200" y="226" width="2" height="21" fill="#44FF62"/></g>
+</g>
+  </g>
+</g>
+
+<line x1="340" y1="296" x2="340" y2="350" stroke="#262626"/>
+<line x1="500" y1="296" x2="500" y2="350" stroke="#262626"/>
+<g class="rise" style="animation-delay:0.45s">
+  <text x="260" y="324" text-anchor="middle" font-size="30" font-weight="800" fill="#F5F5F5">8<tspan fill="#44FF62">+</tspan></text>
+  <text x="260" y="346" text-anchor="middle" font-size="13" fill="#A3A3A3">years in frontend</text>
+</g>
+<g class="rise" style="animation-delay:0.5700000000000001s">
+  <text x="420" y="324" text-anchor="middle" font-size="30" font-weight="800" fill="#F5F5F5">5<tspan fill="#44FF62"></tspan></text>
+  <text x="420" y="346" text-anchor="middle" font-size="13" fill="#A3A3A3">companies, team lead</text>
+</g>
+<g class="rise" style="animation-delay:0.69s">
+  <text x="580" y="324" text-anchor="middle" font-size="30" font-weight="800" fill="#F5F5F5">94<tspan fill="#44FF62">+</tspan></text>
+  <text x="580" y="346" text-anchor="middle" font-size="13" fill="#A3A3A3">Lighthouse score</text>
+</g>
+</svg>

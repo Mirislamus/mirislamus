@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="206" viewBox="0 0 840 206" fill="none" role="img" aria-label="Client reviews">
+<title>Client reviews</title>
+<style>
+text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif}
+.mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace}
+.pop{transform-box:fill-box;transform-origin:center}
+
+@keyframes marquee{to{transform:translateX(-2528px)}}
+.track{animation:marquee 70s linear infinite}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs>
+<clipPath id="rc"><rect x="0.5" y="0.5" width="839" height="205" rx="24"/></clipPath>
+<linearGradient id="edge"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".08" stop-color="#fff"/><stop offset=".92" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="em"><rect width="840" height="206" fill="url(#edge)"/></mask>
+</defs>
+<rect x="0.5" y="0.5" width="839" height="205" rx="24" fill="#121212" stroke="#262626"/>
+<g clip-path="url(#rc)" mask="url(#em)"><g class="track">
+<g transform="translate(16 25)">
+  <rect width="300" height="156" rx="16" fill="#181818" stroke="#262626"/>
+  <text x="16" y="48" font-size="44" font-weight="800" fill="#44FF62">“</text>
+  <text x="44" y="30" font-size="13.5" fill="#E5E5E5">Excellent work on the landing page</text><text x="44" y="49" font-size="13.5" fill="#E5E5E5">built with React and Next.js. Thank</text><text x="44" y="68" font-size="13.5" fill="#E5E5E5">you!</text>
+  <line x1="18" y1="114" x2="282" y2="114" stroke="#262626"/>
+  <text x="18" y="138" font-size="13" font-weight="700" fill="#F5F5F5">Bryan Finch</text>
+  <text x="282" y="138" text-anchor="end" font-size="12" letter-spacing="1" fill="#44FF62">★★★★★</text>
+</g>
+<g transform="translate(332 25)">
+  <rect width="300" height="156" rx="16" fill="#181818" stroke="#262626"/>
+  <text x="16" y="48" font-size="44" font-weight="800" fill="#44FF62">“</text>
+  <text x="44" y="30" font-size="13.5" fill="#E5E5E5">Completed the CSS fixes in the</text><text x="44" y="49" font-size="13.5" fill="#E5E5E5">shortest possible time. Very</text><text x="44" y="68" font-size="13.5" fill="#E5E5E5">satisfied with the cooperation.</text>
+  <line x1="18" y1="114" x2="282" y2="114" stroke="#262626"/>
+  <text x="18" y="138" font-size="13" font-weight="700" fill="#F5F5F5">Illarion Panovsky</text>
+  <text x="282" y="138" text-anchor="end" font-size="12" letter-spacing="1" fill="#44FF62">★★★★★</text>
+</g>
+<g transform="translate(648 25)">
+  <rect width="300" height="156" rx="16" fill="#181818" stroke="#262626"/>
+  <text x="16" y="48" font-size="44" font-weight="800" fill="#44FF62">“</text>
+  <text x="44" y="30" font-size="13.5" fill="#E5E5E5">Excellent communication and great</text><text x="44" y="49" font-size="13.5" fill="#E5E5E5">code. Highly recommend.</text>
+  <line x1="18" y1="114" x2="282" y2="114" stroke="#262626"/>
+  <text x="18" y="138" font-size="13" font-weight="700" fill="#F5F5F5">Egor Burkaba</text>
+  <text x="282" y="138" text-anchor="end" font-size="12" letter-spacing="1" fill="#44FF62">★★★★★</text>
+</g>
+<g transform="translate(964 25)">
+  <rect width="300" height="156" rx="16" fill="#181818" stroke="#262626"/>
+  <text x="16" y="48" font-size="44" font-weight="800" fill="#44FF62">“</text>
+  <text x="44" y="30" font-size="13.5" fill="#E5E5E5">Handled the layout perfectly.</text><text x="44" y="49" font-size="13.5" fill="#E5E5E5">Polite, punctual, and highly</text><text x="44" y="68" font-size="13.5" fill="#E5E5E5">recommended.</text>
+  <line x1="18" y1="114" x2="282" y2="114" stroke="#262626"/>
+  <text x="18" y="138" font-size="13" font-weight="700" fill="#F5F5F5">Ilya Usanov</text>
+  <text x="282" y="138" text-anchor="end" font-size="12" letter-spacing="1" fill="#44FF62">★★★★★</text>
+</g>
+<g transform="translate(1280 25)">
+  <rect width="300" height="156" rx="16" fill="#181818" stroke="#262626"/>
+  <text x="16" y="48" font-size="44" font-weight="800" fill="#44FF62">“</text>
+  <text x="44" y="30" font-size="13.5" fill="#E5E5E5">Reliable and conscientious.</text><text x="44" y="49" font-size="13.5" fill="#E5E5E5">Completed 10 pages exactly according</text><text x="44" y="68" font-size="13.5" fill="#E5E5E5">to the technical requirements.</text>
+  <line x1="18" y1="114" x2="282" y2="114" stroke="#262626"/>
+  <text x="18" y="138" font-size="13" font-weight="700" fill="#F5F5F5">dcpr</text>
+  <text x="282" y="138" text-anchor="end" font-size="12" letter-spacing="1" fill="#44FF62">★★★★★</text>
+</g>
+<g transform="translate(1596 25)">
+  <rect width="300" height="156" rx="16" fill="#181818" stroke="#262626"/>
+  <text x="16" y="48" font-size="44" font-weight="800" fill="#44FF62">“</text>
+  <text x="44" y="30" font-size="13.5" fill="#E5E5E5">Pleasant to work with. Mirislam</text><text x="44" y="49" font-size="13.5" fill="#E5E5E5">understands tasks without issues and</text><text x="44" y="68" font-size="13.5" fill="#E5E5E5">provides high-quality work.</text>
+  <line x1="18" y1="114" x2="282" y2="114" stroke="#262626"/>
+  <text x="18" y="138" font-size="13" font-weight="700" fill="#F5F5F5">Alexey Kopievsky</text>
+  <text x="282" y="138" text-anchor="end" font-size="12" letter-spacing="1" fill="#44FF62">★★★★★</text>
+</g>
+<g transform="translate(1912 25)">
+  <rect width="300" height="156" rx="16" fill="#181818" stroke="#262626"/>
+  <text x="16" y="48" font-size="44" font-weight="800" fill="#44FF62">“</text>
+  <text x="44" y="30" font-size="13.5" fill="#E5E5E5">Clean and readable code. Handled the</text><text x="44" y="49" font-size="13.5" fill="#E5E5E5">complex form layout quickly.</text><text x="44" y="68" font-size="13.5" fill="#E5E5E5">Recommended!</text>
+  <line x1="18" y1="114" x2="282" y2="114" stroke="#262626"/>
+  <text x="18" y="138" font-size="13" font-weight="700" fill="#F5F5F5">Ren Ren</text>
+  <text x="282" y="138" text-anchor="end" font-size="12" letter-spacing="1" fill="#44FF62">★★★★★</text>
+</g>
+<g transform="translate(2228 25)">
+  <rect width="300" height="156" rx="16" fill="#181818" stroke="#262626"/>
+  <text x="16" y="48" font-size="44" font-weight="800" fill="#44FF62">“</text>
+  <text x="44" y="30" font-size="13.5" fill="#E5E5E5">High-quality site development. All</text><text x="44" y="49" font-size="13.5" fill="#E5E5E5">minor edits were fixed immediately.</text><text x="44" y="68" font-size="13.5" fill="#E5E5E5">I advise everyone to work with him.</text>
+  <line x1="18" y1="114" x2="282" y2="114" stroke="#262626"/>
+  <text x="18" y="138" font-size="13" font-weight="700" fill="#F5F5F5">Andrey Petrov</text>
+  <text x="282" y="138" text-anchor="end" font-size="12" letter-spacing="1" fill="#44FF62">★★★★★</text>
+</g>
+<g transform="translate(2544 25)">
+  <rect width="300" height="156" rx="16" fill="#181818" stroke="#262626"/>
+  <text x="16" y="48" font-size="44" font-weight="800" fill="#44FF62">“</text>
+  <text x="44" y="30" font-size="13.5" fill="#E5E5E5">Excellent work on the landing page</text><text x="44" y="49" font-size="13.5" fill="#E5E5E5">built with React and Next.js. Thank</text><text x="44" y="68" font-size="13.5" fill="#E5E5E5">you!</text>
+  <line x1="18" y1="114" x2="282" y2="114" stroke="#262626"/>
+  <text x="18" y="138" font-size="13" font-weight="700" fill="#F5F5F5">Bryan Finch</text>
+  <text x="282" y="138" text-anchor="end" font-size="12" letter-spacing="1" fill="#44FF62">★★★★★</text>
+</g>
+<g transform="translate(2860 25)">
+  <rect width="300" height="156" rx="16" fill="#181818" stroke="#262626"/>
+  <text x="16" y="48" font-size="44" font-weight="800" fill="#44FF62">“</text>
+  <text x="44" y="30" font-size="13.5" fill="#E5E5E5">Completed the CSS fixes in the</text><text x="44" y="49" font-size="13.5" fill="#E5E5E5">shortest possible time. Very</text><text x="44" y="68" font-size="13.5" fill="#E5E5E5">satisfied with the cooperation.</text>
+  <line x1="18" y1="114" x2="282" y2="114" stroke="#262626"/>
+  <text x="18" y="138" font-size="13" font-weight="700" fill="#F5F5F5">Illarion Panovsky</text>
+  <text x="282" y="138" text-anchor="end" font-size="12" letter-spacing="1" fill="#44FF62">★★★★★</text>
+</g>
+<g transform="translate(3176 25)">
+  <rect width="300" height="156" rx="16" fill="#181818" stroke="#262626"/>
+  <text x="16" y="48" font-size="44" font-weight="800" fill="#44FF62">“</text>
+  <text x="44" y="30" font-size="13.5" fill="#E5E5E5">Excellent communication and great</text><text x="44" y="49" font-size="13.5" fill="#E5E5E5">code. Highly recommend.</text>
+  <line x1="18" y1="114" x2="282" y2="114" stroke="#262626"/>
+  <text x="18" y="138" font-size="13" font-weight="700" fill="#F5F5F5">Egor Burkaba</text>
+  <text x="282" y="138" text-anchor="end" font-size="12" letter-spacing="1" fill="#44FF62">★★★★★</text>
+</g>
+<g transform="translate(3492 25)">
+  <rect width="300" height="156" rx="16" fill="#181818" stroke="#262626"/>
+  <text x="16" y="48" font-size="44" font-weight="800" fill="#44FF62">“</text>
+  <text x="44" y="30" font-size="13.5" fill="#E5E5E5">Handled the layout perfectly.</text><text x="44" y="49" font-size="13.5" fill="#E5E5E5">Polite, punctual, and highly</text><text x="44" y="68" font-size="13.5" fill="#E5E5E5">recommended.</text>
+  <line x1="18" y1="114" x2="282" y2="114" stroke="#262626"/>
+  <text x="18" y="138" font-size="13" font-weight="700" fill="#F5F5F5">Ilya Usanov</text>
+  <text x="282" y="138" text-anchor="end" font-size="12" letter-spacing="1" fill="#44FF62">★★★★★</text>
+</g>
+<g transform="translate(3808 25)">
+  <rect width="300" height="156" rx="16" fill="#181818" stroke="#262626"/>
+  <text x="16" y="48" font-size="44" font-weight="800" fill="#44FF62">“</text>
+  <text x="44" y="30" font-size="13.5" fill="#E5E5E5">Reliable and conscientious.</text><text x="44" y="49" font-size="13.5" fill="#E5E5E5">Completed 10 pages exactly according</text><text x="44" y="68" font-size="13.5" fill="#E5E5E5">to the technical requirements.</text>
+  <line x1="18" y1="114" x2="282" y2="114" stroke="#262626"/>
+  <text x="18" y="138" font-size="13" font-weight="700" fill="#F5F5F5">dcpr</text>
+  <text x="282" y="138" text-anchor="end" font-size="12" letter-spacing="1" fill="#44FF62">★★★★★</text>
+</g>
+<g transform="translate(4124 25)">
+  <rect width="300" height="156" rx="16" fill="#181818" stroke="#262626"/>
+  <text x="16" y="48" font-size="44" font-weight="800" fill="#44FF62">“</text>
+  <text x="44" y="30" font-size="13.5" fill="#E5E5E5">Pleasant to work with. Mirislam</text><text x="44" y="49" font-size="13.5" fill="#E5E5E5">understands tasks without issues and</text><text x="44" y="68" font-size="13.5" fill="#E5E5E5">provides high-quality work.</text>
+  <line x1="18" y1="114" x2="282" y2="114" stroke="#262626"/>
+  <text x="18" y="138" font-size="13" font-weight="700" fill="#F5F5F5">Alexey Kopievsky</text>
+  <text x="282" y="138" text-anchor="end" font-size="12" letter-spacing="1" fill="#44FF62">★★★★★</text>
+</g>
+<g transform="translate(4440 25)">
+  <rect width="300" height="156" rx="16" fill="#181818" stroke="#262626"/>
+  <text x="16" y="48" font-size="44" font-weight="800" fill="#44FF62">“</text>
+  <text x="44" y="30" font-size="13.5" fill="#E5E5E5">Clean and readable code. Handled the</text><text x="44" y="49" font-size="13.5" fill="#E5E5E5">complex form layout quickly.</text><text x="44" y="68" font-size="13.5" fill="#E5E5E5">Recommended!</text>
+  <line x1="18" y1="114" x2="282" y2="114" stroke="#262626"/>
+  <text x="18" y="138" font-size="13" font-weight="700" fill="#F5F5F5">Ren Ren</text>
+  <text x="282" y="138" text-anchor="end" font-size="12" letter-spacing="1" fill="#44FF62">★★★★★</text>
+</g>
+<g transform="translate(4756 25)">
+  <rect width="300" height="156" rx="16" fill="#181818" stroke="#262626"/>
+  <text x="16" y="48" font-size="44" font-weight="800" fill="#44FF62">“</text>
+  <text x="44" y="30" font-size="13.5" fill="#E5E5E5">High-quality site development. All</text><text x="44" y="49" font-size="13.5" fill="#E5E5E5">minor edits were fixed immediately.</text><text x="44" y="68" font-size="13.5" fill="#E5E5E5">I advise everyone to work with him.</text>
+  <line x1="18" y1="114" x2="282" y2="114" stroke="#262626"/>
+  <text x="18" y="138" font-size="13" font-weight="700" fill="#F5F5F5">Andrey Petrov</text>
+  <text x="282" y="138" text-anchor="end" font-size="12" letter-spacing="1" fill="#44FF62">★★★★★</text>
+</g>
+</g></g>
+</svg>
